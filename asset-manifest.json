@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react1/static/css/main.a50203f8.css",
+    "main.js": "/react1/static/js/main.0492b9ce.js",
+    "static/js/787.2fb68038.chunk.js": "/react1/static/js/787.2fb68038.chunk.js",
+    "static/media/Like.svg": "/react1/static/media/Like.e87a0bbffa7c3bba63a89caba4dd2e54.svg",
+    "static/media/download.svg": "/react1/static/media/download.0bf670ded2e213e58a3a9990dedfd51d.svg",
+    "index.html": "/react1/index.html",
+    "static/media/message.svg": "/react1/static/media/message.94e68db9ee8ebeee57fe327410b6a04b.svg",
+    "static/media/retweet.svg": "/react1/static/media/retweet.1a8cf66796a97a6e0dda99153d02b152.svg",
+    "static/media/check.svg": "/react1/static/media/check.60182f82f61ecfa7388f56f2e4fd1896.svg",
+    "static/media/down.svg": "/react1/static/media/down.49ef67b75091e4b145e92f6054555c06.svg",
+    "main.a50203f8.css.map": "/react1/static/css/main.a50203f8.css.map",
+    "main.0492b9ce.js.map": "/react1/static/js/main.0492b9ce.js.map",
+    "787.2fb68038.chunk.js.map": "/react1/static/js/787.2fb68038.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a50203f8.css",
+    "static/js/main.0492b9ce.js"
+  ]
+}
